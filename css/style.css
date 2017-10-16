@@ -1,0 +1,16 @@
+body {
+  background: #fff;
+  color: #4a4a4a;
+}
+
+div.container {
+  width: 50%;
+}
+
+div.row {
+  padding: 20px;
+}
+
+div.title {
+  text-align: center;
+}
